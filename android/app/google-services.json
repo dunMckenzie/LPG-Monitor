@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969898643401",
+    "project_id": "lpggas-fb243",
+    "storage_bucket": "lpggas-fb243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969898643401:android:cc305cff2ea846bcf36218",
+        "android_client_info": {
+          "package_name": "com.example.lpgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969898643401-0dj6bhccfthe9hl762fsdsijq90050q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEW60AHMTYgeLIecFeAX6nQRqZub_Axks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969898643401-0dj6bhccfthe9hl762fsdsijq90050q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
